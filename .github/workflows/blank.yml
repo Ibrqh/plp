@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Navigation Menu</title>
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#projects">Projects</a></li>
+    </ul>
+  </nav>
+
+  <section id="home">
+    <h2>Home</h2>
+    <p>Welcome to Rio Rosa Modeling Agency!</p>
+  </section>
+
+  <section id="about">
+    <h2>About</h2>
+    <p>Rio Rosa Modeling Agency.</p>
+    <p>Rio Rosa Modeling Agency is a high-end modeling agency that represents models in the fashion, beauty, and commercial industries. With headquarters in Rio de Janeiro, Brazil, our agency aims to provide a platform for aspiring models to build their careers and showcase their talent on a global stage. We prioritize diversity and inclusivity, representing models of all backgrounds, sizes, and ethnicities. At Rio Rosa, we foster a collaborative and supportive environment, ensuring that our models receive the best possible representation and opportunities to excel in their careers. We are committed to excellence and professionalism, and our dedicated team works tirelessly to ensure that both our models and clients receive the highest quality service. At Rio Rosa, we believe in empowering our models and helping them reach their full potential in the modeling industry.</p>
+    <p>Learn more about our company.</p>
+    <h2>Rio Rosa Deals With!</h2>
+    <ol>Fashion modeling: This encompasses runway modeling for high-end fashion shows, photoshoots for fashion brands and magazines, and representing fashion brands in various promotional campaigns.</ol>
+    <ol>Beauty modeling: This involves promoting beauty products and cosmetics through photoshoots, commercials, and advertisements. Beauty models may also represent skincare, haircare, and wellness brands.
+    <ol>Commercial modeling: This involves representing brands in various commercial advertisements, including print ads, TV commercials, and online marketing materials. Commercial models often portray a diverse range of characters and demographics in order to appeal to a broad audience.
+    <ol>Talent representation: Some modeling agencies also represent talent for acting, hosting, or other entertainment-related gigs. This might involve placing models in television shows, movies, or hosting events.
+    <ol>Specialized modeling: Some agencies might specialize in certain types of modeling, such as plus-size modeling, fitness modeling, or eco-friendly modeling. These agencies focus on representing models who embody specific brand values or target niche markets.</ol>
+    <ol>International representation: Larger modeling agencies may have connections and representation opportunities in other countries, enabling models to pursue international careers and opportunities.</ol>
+    </ol>
+    </ol>
+    </ol>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <p>Explore our latest projects:</p>
+    <ul>
+      <li>Project Runway</li>
+      <li>Project Showcase</li>
+      <li>Project Flyby</li>
+    </ul>
+  </section>
+</body>
+</html>
